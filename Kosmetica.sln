@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kosmetica", "Kosmetica\Kosmetica.csproj", "{60CDDF44-D76E-4DE0-9FD4-7757CBD6BA7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60CDDF44-D76E-4DE0-9FD4-7757CBD6BA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60CDDF44-D76E-4DE0-9FD4-7757CBD6BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60CDDF44-D76E-4DE0-9FD4-7757CBD6BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60CDDF44-D76E-4DE0-9FD4-7757CBD6BA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {082E2F15-351C-4CB8-AC13-DF43E3475EC6}
+	EndGlobalSection
+EndGlobal
