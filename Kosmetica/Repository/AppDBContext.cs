@@ -12,5 +12,6 @@ namespace Kosmetica.Service {
         }
         public DbSet<Product> Product { get; set; }
         public DbSet<Category> Category { get; set; }
+        public DbSet<File> File { get; set; }
     }
 }

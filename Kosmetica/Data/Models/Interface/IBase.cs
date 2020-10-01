@@ -5,8 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 
 namespace Kosmetica.Data.Models {
-    public abstract class Base : IBase {
-        public long Id { get; set; }
-        public bool IsDeleted { get; set; }
+    public interface IBase {
+        [Key]
+        long Id { get; set; }
+        bool IsDeleted { get; set; }
     }
 }
